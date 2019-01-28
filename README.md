@@ -52,3 +52,12 @@ const styles = StyleSheet.create({
   },
   
 });
+```
+
+# Props
+
+| Prop          | Type           | Note  |
+| ------------- |:-------------:| -----:|
+| data          | array         | array of list data  |
+| onPressitem   | func          |   return data of onpress item |
+
