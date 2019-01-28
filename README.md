@@ -4,6 +4,7 @@
 
 # Install
 
+npm i react-native-event-flatlist
 
 # Usage
 
