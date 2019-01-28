@@ -2,6 +2,9 @@
 
 ![alt text](https://i.ibb.co/7CZ8Xyh/Screenshot-1548651376.png "Flat list event")
 
+# Install
+
+
 # Usage
 
 
@@ -59,5 +62,5 @@ const styles = StyleSheet.create({
 | Prop          | Type           | Note  |
 | ------------- |:-------------:| -----:|
 | data          | array         | array of list data  |
-| onPressitem   | func          |   return data of onpress item |
+| onPressitem   | func          |   return data when user press on item |
 
